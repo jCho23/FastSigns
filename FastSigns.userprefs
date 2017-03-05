@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1AAA6203-213F-4D9D-AD75-CB7B27D3922E}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.FastSigns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastSigns/Tests.cs">
+    <Files>
+      <File FileName="FastSigns/AppInitializer.cs" Line="33" Column="4" />
+      <File FileName="FastSigns/Tests.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FastSigns" expanded="True" selected="True">
+            <Node name="FastSigns" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
