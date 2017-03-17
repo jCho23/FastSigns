@@ -1,14 +1,14 @@
 # FastSigns
 Automation Test Script for FastSigns
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
